@@ -1,0 +1,7 @@
+[package]
+name = "lamport"
+version = "0.1.0"
+authors = ["softprops <d.tangren@gmail.com>"]
+
+[dependencies]
+rustc-serialize = "0.3"
